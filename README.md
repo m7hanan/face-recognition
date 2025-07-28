@@ -1,5 +1,7 @@
 #Face Recognition AI Model
+
 This project is a Face Recognition AI model trained on five images of my face. It uses deep learning techniques to accurately recognize my face from new input images.
+
 
 Features
 Trains a face recognition model using five reference images.
@@ -21,7 +23,9 @@ dlib – Machine learning toolkit with facial landmark detection
 
 face_recognition – Library for face recognition built on top of dlib
 
+
 Installation
+
 Clone the repository:
 
 
