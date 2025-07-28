@@ -1,4 +1,4 @@
-Face Recognition AI Model
+#Face Recognition AI Model
 This project is a Face Recognition AI model trained on five images of my face. It uses deep learning techniques to accurately recognize my face from new input images.
 
 Features
