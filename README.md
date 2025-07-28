@@ -62,7 +62,7 @@ face-recognition/
 ├── face_recognition.py     # Main face recognition script
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
-Future Improvements
+
 Add more training images to improve accuracy.
 
 Implement real-time video stream face recognition.
